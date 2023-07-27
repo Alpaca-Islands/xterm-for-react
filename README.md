@@ -1,6 +1,6 @@
 # XTerm For React
 
-[![NPM](https://img.shields.io/npm/v/xterm-for-react.svg)](https://www.npmjs.com/package/xterm-for-react)
+
 
 XTerm For React is a React wrapper made for XTerm.js to allow you to easly integrate XTerm into any React project.
 
@@ -13,7 +13,7 @@ You can install XTerm For React using the following commands:
 NPM:
 
 ```
-npm install xterm-for-react
+npm install git+https://github.com/Alpaca-Islands/xterm-for-react.git
 ```
 
 Yarn:
